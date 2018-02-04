@@ -102,6 +102,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [rustify - Rust WebAssembly transform for Browserify](https://github.com/browserify/rustify)
 
 #### Languages
+- [Walt - Alternative Syntax for WebAssembly](https://github.com/ballercat/walt)
 - [wasm_lua - Lua VM running in a WASM environment](https://github.com/vvanders/wasm_lua)
 - [ocamlrun-wasm - OCaml Bytecode Interpreter in WASM](https://github.com/sebmarkbage/ocamlrun-wasm)
 - [wacl - Tcl Interpreter in WASM with browser extensions](https://fossil.e-lehmann.de/wacl/index)
